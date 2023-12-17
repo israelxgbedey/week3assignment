@@ -1,0 +1,2 @@
+Data: Player defeated Silent Stalker, MonsterHealth: 0, NumberOfAttacks: 0, PlayerHealth: 10
+Data: Player was defeated by Venomspike, MonsterHealth: 90, NumberOfAttacks: 0, PlayerHealth: 0

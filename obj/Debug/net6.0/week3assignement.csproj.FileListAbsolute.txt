@@ -1,0 +1,14 @@
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\week3assignement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\week3assignement.AssemblyInfoInputs.cache
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\week3assignement.AssemblyInfo.cs
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\week3assignement.csproj.CoreCompileInputs.cache
+C:\Users\markg\source\repos\week3assignement\bin\Debug\net6.0\week3assignement.exe
+C:\Users\markg\source\repos\week3assignement\bin\Debug\net6.0\week3assignement.deps.json
+C:\Users\markg\source\repos\week3assignement\bin\Debug\net6.0\week3assignement.runtimeconfig.json
+C:\Users\markg\source\repos\week3assignement\bin\Debug\net6.0\week3assignement.dll
+C:\Users\markg\source\repos\week3assignement\bin\Debug\net6.0\week3assignement.pdb
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\week3assignement.dll
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\refint\week3assignement.dll
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\week3assignement.pdb
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\week3assignement.genruntimeconfig.cache
+C:\Users\markg\source\repos\week3assignement\obj\Debug\net6.0\ref\week3assignement.dll
